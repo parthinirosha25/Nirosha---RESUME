@@ -18,7 +18,7 @@
 .container{
     position: relative;
     width: 100%;
-    max-width: 2000px;
+    max-width: 1000%;
     max-height: 3000px;
     margin: 50px;
     background: #fff;
@@ -75,7 +75,7 @@
 }
 
 .contactInfo{
-    padding: 20px;
+    padding: 40px;
 }
 
 .title{
@@ -152,7 +152,7 @@
 }
 
 .about{
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 
 .about:last-child{

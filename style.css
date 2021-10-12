@@ -19,8 +19,8 @@
     position: relative;
     width: 100%;
     max-width: 1000%;
-    max-height: 1150px;
-    margin: 5px;
+    max-height: 2000px;
+    margin: 10px 10px 10PX 10px;
     background: #fff;
     display: grid;
     grid-template-columns: 1fr 2fr;

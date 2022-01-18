@@ -176,11 +176,11 @@ p{
     margin: 20px 0;
 }
 
-.about .box .year_complany{
-    min-width: 150px;
+.about .box .year_company{
+    min-width: 180px;
 }
 
-.about .box .year_complany h5{
+.about .box .year_company h5{
     text-transform: uppercase;
     color: #848c90;
     font-weight: 600;
